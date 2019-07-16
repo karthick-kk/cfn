@@ -3,7 +3,7 @@
     "classification": [
         "Provisioning"
     ],
-    "servicetype": "RDS",
+    "servicetype": "RDD",
     "description": " A basic CloudFormation template for Postgres rds DB.\n",
     "files": {},
     "input_source": "Templates",
