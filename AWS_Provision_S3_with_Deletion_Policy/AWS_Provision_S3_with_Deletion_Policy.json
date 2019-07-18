@@ -10,7 +10,7 @@
 		"extension": "json",
 		"file_name": "AWS_Provision_S3_with_Deletion_Policy",
 		"tags": {},
-		"operation_level": "L2",
+		"operation_level": "L3",
 		"operation_time": 30
 	},
 	"name": "AWS_Provision_S3_with_Deletion_Policy",
