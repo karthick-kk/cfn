@@ -10,7 +10,7 @@
     "extension": "json",
     "file_name": "AWS_Create_Lambda_Function_CFN",
     "tags": {},
-    "operation_level": "L2",
+    "operation_level": "L1",
     "operation_time": 15
   },
   "name": "AWS_Create_Lambda_Function_CFN",
