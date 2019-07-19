@@ -3,7 +3,7 @@
     "classification": [
         "Provisioning"
     ],
-    "description": " A basic CloudFormation template for Postgres rds DB.\n",
+    "description": " A basic CloudFormation template for Postgres RDS DB.\n",
     "files": {},
     "input_source": "Templates",
     "metadata": {

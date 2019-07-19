@@ -1,6 +1,6 @@
 {
 	"AWSTemplateFormatVersion": "2010-09-09",
-	"Description": "A basic CloudFormation template for Postgres rds DB.\n",
+	"Description": "A basic CloudFormation template for Postgres RDS DB.\n",
 	"Parameters": {
 		"DatabaseUsername": {
 			"AllowedPattern": "[a-zA-Z0-9]+",
